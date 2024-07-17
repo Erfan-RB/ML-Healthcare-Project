@@ -1,3 +1,3 @@
-# Basic-ML
-This projects is for learning basic ML for beginners
-![72142deep-learning-vs-machine-learning-t](https://github.com/user-attachments/assets/fb8cac5d-2687-4de0-90e8-25cd342080ad)
+# Healthcare-ML
+This projects is for learning ML 
+![machine-learning-in-healthcare](https://github.com/user-attachments/assets/1cbae365-65a6-40ef-9419-f0abe0e1b61f)
